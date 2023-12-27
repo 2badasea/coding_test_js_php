@@ -1,0 +1,24 @@
+<?php
+
+$n = 1;
+$strings1 = ["sun", "bed", "car"];
+
+$n = 2;
+$strings2 = ["abce", "abcd", "cdx"];
+
+
+// php에서는 sort() 함수와 rsort() 함수를 통해 배열의 순서를 정렬할 수 있다.
+sort($strings1);
+print_r($strings1);
+
+
+
+?>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script>
+    $(function(){
+
+
+
+    })
+</script>
